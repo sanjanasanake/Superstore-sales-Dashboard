@@ -79,6 +79,9 @@ End-to-end MIS reporting workflow
 
 Strong Excel + Power Query skills
 
-Business-focused dashboard design
 
-Data storytelling and insight generation
+
+
+<img src="https://github.com/sanjanasanake/Superstore-sales-Dashboard/blob/2ee0d602455293c2fed55761ce00f6087beae5f6/Screenshot%202026-01-21%20120347.png" alt="Image Description" width="600">
+
+
